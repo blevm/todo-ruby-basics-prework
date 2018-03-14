@@ -23,6 +23,7 @@ def last_evaluated_value
   "am not"
   "an"
   "expert"
+  binding.pry
 end
 
 def pizza_party(pizza="cheese")
